@@ -251,7 +251,7 @@ footer{
 
 /* for tab */
 
-@media only screen and (min-width: 688px) and (max-width: 992px) {
+@media only screen and (min-width: 689px) and (max-width: 992px) {
     .container, .footer-feature{
         width: 100%;
 }
@@ -262,9 +262,10 @@ footer{
     
     
 }
+}
 
 
-@media only screen and (min-width: 992px) and (max-width: 1312px) {
+@media only screen and (min-width: 993px) and (max-width: 1312px) {
     .container, .footer-feature{
         width: 100%;
 }
@@ -274,4 +275,5 @@ footer{
     justify-content: center;
     
     
+    }
 }
